@@ -1,0 +1,4099 @@
+canonical_identifier: bkk:krp/KR6q0135/v1
+canonical_location: https://kanripo.org/bkk/KR6q0135/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 百丈清規證義記
+  identifiers:
+    alt_id:
+    - X63n1244
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1244.xml
+    old_id: X63n1244
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0135_000.yaml, hash: 'sha256:2de1550c9e2ac3252d965937d17f5be36f3e8c842233f4ec0d27eb2cb9577fb0'}
+  - {seq: 1, filename: KR6q0135_001.yaml, hash: 'sha256:818b4c3c650299c4e4c39b0e016529b5c5a3a1941aa588e5c9bc73da8058bff7'}
+  - {seq: 2, filename: KR6q0135_002.yaml, hash: 'sha256:d9dcc58139f2660907365103349373fa3d4f417a767a81267dc4cdf71f6ef119'}
+  - {seq: 3, filename: KR6q0135_003.yaml, hash: 'sha256:5caebd1aaaf60f24903809a0f95a297a20a00dfcc747c6de5ec7c0e28404ab1e'}
+  - {seq: 4, filename: KR6q0135_004.yaml, hash: 'sha256:9fd4b2ae0939cea4e5108fccba525dfac4b543f0aba68c47e60b1d743c672e34'}
+  - {seq: 5, filename: KR6q0135_005.yaml, hash: 'sha256:e76c13e23dc28d6f58d8d5d12d5358807603cbc5ccc1d3b9dcab32cad0b9eed6'}
+  - {seq: 6, filename: KR6q0135_006.yaml, hash: 'sha256:5d68d543c525810a717287939cc39e8772fa1990000089d6e6e9e85094d1433f'}
+  - {seq: 8, filename: KR6q0135_008.yaml, hash: 'sha256:f856982199d997637c4df3ed71bd0951bf1cabad8ebe3098c49d672b12e7b01d'}
+  - {seq: 9, filename: KR6q0135_009.yaml, hash: 'sha256:b6d6639862a11513de4d57a32a18c455fab0d26992f7c5d873267a55023cc5c2'}
+  - {seq: 8, filename: KR6q0135_008.yaml, hash: 'sha256:f856982199d997637c4df3ed71bd0951bf1cabad8ebe3098c49d672b12e7b01d'}
+  - {seq: 9, filename: KR6q0135_009.yaml, hash: 'sha256:b6d6639862a11513de4d57a32a18c455fab0d26992f7c5d873267a55023cc5c2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0135_000.markers.yaml, hash: 'sha256:89386333d0e675a7efdb71ef2f28e8e48b09daa79931d2a31cb79d0737898d1b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0135_001.markers.yaml, hash: 'sha256:4880e35b77d08cac23cec0a7eebccdd7ba1e7394089d3b6edd50c756cc6a55b2'}
+  - {seq: 2, role: markers, filename: assets/KR6q0135_002.markers.yaml, hash: 'sha256:b42bcc937e00ebaeea5624e6976b8df9404ca377570badb7b48e5524292b6b8b'}
+  - {seq: 3, role: markers, filename: assets/KR6q0135_003.markers.yaml, hash: 'sha256:d12d4ee13b122a12a4ff57f6326d29481c430c39da0d951a7a6394dbd3a0b081'}
+  - {seq: 4, role: markers, filename: assets/KR6q0135_004.markers.yaml, hash: 'sha256:d1aaa0fac459a46871f804b76557e18245378e93b589fcd8bd13c920e103015e'}
+  - {seq: 5, role: markers, filename: assets/KR6q0135_005.markers.yaml, hash: 'sha256:38b679986fc9ead293b6e1b98148c06f2e81d70807e2d01c750202cfc6d1891d'}
+  - {seq: 6, role: markers, filename: assets/KR6q0135_006.markers.yaml, hash: 'sha256:cc6207c03dca90aea19e637ad890fb79ccca12cb2dd99d9c020933a3565f5de4'}
+  - {seq: 8, role: markers, filename: assets/KR6q0135_008.markers.yaml, hash: 'sha256:a36d4d94c5ea3277b254cf3b561ef73b2bff4f69c09112f30997ec15dbd17ce0'}
+  - {seq: 9, role: markers, filename: assets/KR6q0135_009.markers.yaml, hash: 'sha256:fead9ce306d7709b5de5f641534c8cd0e6a15daa90abe237dc6008a43e82df7c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1244-A 百丈海禪師贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-2
+    span:
+    - front
+    - 46
+    - 46
+  label: No. 1244-B 百丈清規原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-3
+    span:
+    - front
+    - 681
+    - 681
+  label: No. 1244-C 清規證義記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-4
+    span:
+    - front
+    - 1149
+    - 1149
+  label: No. 1244-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-5
+    span:
+    - front
+    - 1363
+    - 1363
+  label: No. 1244-E
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-6
+    span:
+    - front
+    - 1533
+    - 1533
+  label: No. 1244-F 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-7
+    span:
+    - front
+    - 1894
+    - 1894
+  label: No. 1244-G 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-8
+    span:
+    - front
+    - 2181
+    - 2181
+  label: No. 1244-H
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-9
+    span:
+    - front
+    - 2575
+    - 2575
+  label: 百丈叢林清規證義記目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-10
+    span:
+    - front
+    - 3809
+    - 3809
+  label: (附)列祖提綱錄總目(四十二卷)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-11
+    span:
+    - front
+    - 5006
+    - 5006
+  label: 凡例(十三條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-12
+    span:
+    - front
+    - 6028
+    - 6028
+  label: No. 1244-I 百丈叢林清規元義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-13
+    span:
+    - front
+    - 6105
+    - 6105
+  label: 初人喻法為名
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-14
+    span:
+    - front
+    - 7574
+    - 7574
+  label: 二權實相須為體
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-15
+    span:
+    - front
+    - 7940
+    - 7940
+  label: 三扶律內護為宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-16
+    span:
+    - front
+    - 8183
+    - 8183
+  label: 四依法辦事為用
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0135_X_000-mulu-17
+    span:
+    - front
+    - 8422
+    - 8422
+  label: 五乳酪並用為教相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4708
+  label: 百丈叢林清規證義記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 祝𨤲章第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-2
+    span:
+    - body
+    - 182
+    - 182
+  label: 聖節啟建
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-3
+    span:
+    - body
+    - 1228
+    - 1228
+  label: 正節早祝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-4
+    span:
+    - body
+    - 2295
+    - 2295
+  label: 聖節圓滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-5
+    span:
+    - body
+    - 3267
+    - 3267
+  label: 皇后千秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-6
+    span:
+    - body
+    - 3415
+    - 3415
+  label: 受 敕奉 旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0135_X_001-mulu-7
+    span:
+    - body
+    - 3899
+    - 3899
+  label: 景命四齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11945
+  label: 百丈叢林清規證義記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 報恩章第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-2
+    span:
+    - body
+    - 286
+    - 286
+  label: 國忌佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-3
+    span:
+    - body
+    - 565
+    - 565
+  label: 供天
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-4
+    span:
+    - body
+    - 2521
+    - 2521
+  label: 護日護月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-5
+    span:
+    - body
+    - 3229
+    - 3229
+  label: 附中秋祀月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-6
+    span:
+    - body
+    - 4010
+    - 4010
+  label: 祈晴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-7
+    span:
+    - body
+    - 4902
+    - 4902
+  label: 祈雨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-8
+    span:
+    - body
+    - 8664
+    - 8664
+  label: 附祈雪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-9
+    span:
+    - body
+    - 8745
+    - 8745
+  label: 遣蝗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-10
+    span:
+    - body
+    - 9635
+    - 9635
+  label: 祈禱韋䭾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-11
+    span:
+    - body
+    - 10644
+    - 10644
+  label: (附)韋天聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-12
+    span:
+    - body
+    - 10915
+    - 10915
+  label: (附)伽藍誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0135_X_002-mulu-13
+    span:
+    - body
+    - 11451
+    - 11451
+  label: 祭竈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 14264
+  label: 百丈叢林清規證義記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 報本章第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-2
+    span:
+    - body
+    - 235
+    - 235
+  label: 釋迦佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-3
+    span:
+    - body
+    - 2825
+    - 2825
+  label: 佛成道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-4
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 佛涅槃
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-5
+    span:
+    - body
+    - 4714
+    - 4714
+  label: 藥師佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-6
+    span:
+    - body
+    - 5495
+    - 5495
+  label: 彌陀佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-7
+    span:
+    - body
+    - 6149
+    - 6149
+  label: 彌勒佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-8
+    span:
+    - body
+    - 7909
+    - 7909
+  label: 準提聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-9
+    span:
+    - body
+    - 8807
+    - 8807
+  label: 文殊聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-10
+    span:
+    - body
+    - 10224
+    - 10224
+  label: 普賢聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-11
+    span:
+    - body
+    - 10901
+    - 10901
+  label: 觀音聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-12
+    span:
+    - body
+    - 12140
+    - 12140
+  label: 勢至聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0135_X_003-mulu-13
+    span:
+    - body
+    - 13117
+    - 13117
+  label: 地藏聖誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 13284
+  label: 百丈叢林清規證義記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 尊祖章第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-2
+    span:
+    - body
+    - 293
+    - 293
+  label: 初祖達磨忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-3
+    span:
+    - body
+    - 2235
+    - 2235
+  label: 百丈祖師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-4
+    span:
+    - body
+    - 3543
+    - 3543
+  label: 智者大師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-5
+    span:
+    - body
+    - 4635
+    - 4635
+  label: 賢首法師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-6
+    span:
+    - body
+    - 6237
+    - 6237
+  label: 道宣律祖忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-7
+    span:
+    - body
+    - 6917
+    - 6917
+  label: 慧遠祖師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-8
+    span:
+    - body
+    - 8066
+    - 8066
+  label: 開山祖忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-9
+    span:
+    - body
+    - 8619
+    - 8619
+  label: 嗣法師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-10
+    span:
+    - body
+    - 9392
+    - 9392
+  label: 剃度授經二師忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-11
+    span:
+    - body
+    - 9949
+    - 9949
+  label: (附)父母忌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-12
+    span:
+    - body
+    - 11449
+    - 11449
+  label: 禮塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-13
+    span:
+    - body
+    - 11670
+    - 11670
+  label: 設斛普薦
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0135_X_004-mulu-14
+    span:
+    - body
+    - 12696
+    - 12696
+  label: 掃塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 42967
+  label: 百丈叢林清規證義記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 住持章第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-2
+    span:
+    - body
+    - 468
+    - 468
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-3
+    span:
+    - body
+    - 1917
+    - 1917
+  label: 晚參小參(附五參)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-4
+    span:
+    - body
+    - 2245
+    - 2245
+  label: 朔望(附茶話)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-5
+    span:
+    - body
+    - 2448
+    - 2448
+  label: 入室請益
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-6
+    span:
+    - body
+    - 2737
+    - 2737
+  label: 巡寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-7
+    span:
+    - body
+    - 2991
+    - 2991
+  label: 普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-8
+    span:
+    - body
+    - 3114
+    - 3114
+  label: 告香
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-9
+    span:
+    - body
+    - 5007
+    - 5007
+  label: 念誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-10
+    span:
+    - body
+    - 5260
+    - 5260
+  label: (附)念誦規約(凡十一條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-11
+    span:
+    - body
+    - 5939
+    - 5939
+  label: 證義
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-12
+    span:
+    - body
+    - 6124
+    - 6124
+  label: 設斛
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-13
+    span:
+    - body
+    - 8708
+    - 8708
+  label: 薰墖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-14
+    span:
+    - body
+    - 9478
+    - 9478
+  label: 點藥師墖燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-15
+    span:
+    - body
+    - 10300
+    - 10300
+  label: 普佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-16
+    span:
+    - body
+    - 10426
+    - 10426
+  label: 肅眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-17
+    span:
+    - body
+    - 11612
+    - 11612
+  label: 訓童行
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-18
+    span:
+    - body
+    - 12248
+    - 12248
+  label: 為行者普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-19
+    span:
+    - body
+    - 12669
+    - 12669
+  label: 受法衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-20
+    span:
+    - body
+    - 13030
+    - 13030
+  label: 掩關
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-21
+    span:
+    - body
+    - 13416
+    - 13416
+  label: 啟關
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-22
+    span:
+    - body
+    - 13855
+    - 13855
+  label: 迎待尊宿(六禮)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-23
+    span:
+    - body
+    - 13861
+    - 13861
+  label: 迎待看單第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-24
+    span:
+    - body
+    - 14288
+    - 14288
+  label: 陞座第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-25
+    span:
+    - body
+    - 14695
+    - 14695
+  label: 落堂第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-26
+    span:
+    - body
+    - 15123
+    - 15123
+  label: 請齋第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-27
+    span:
+    - body
+    - 15450
+    - 15450
+  label: 參堂巡寮第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-28
+    span:
+    - body
+    - 15691
+    - 15691
+  label: 回山第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-29
+    span:
+    - body
+    - 16051
+    - 16051
+  label: 護法至
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-30
+    span:
+    - body
+    - 16439
+    - 16439
+  label: 到宗剎諸山
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-31
+    span:
+    - body
+    - 16498
+    - 16498
+  label: 慶生
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-32
+    span:
+    - body
+    - 17021
+    - 17021
+  label: 飯僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-33
+    span:
+    - body
+    - 18220
+    - 18220
+  label: 施齋田
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-34
+    span:
+    - body
+    - 18965
+    - 18965
+  label: 供羅漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-35
+    span:
+    - body
+    - 18968
+    - 18968
+  label: 儀軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-36
+    span:
+    - body
+    - 21082
+    - 21082
+  label: 五百之第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-37
+    span:
+    - body
+    - 21618
+    - 21618
+  label: 第二百起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-38
+    span:
+    - body
+    - 21953
+    - 21953
+  label: 第三百起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-39
+    span:
+    - body
+    - 22373
+    - 22373
+  label: 第四百起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-40
+    span:
+    - body
+    - 22803
+    - 22803
+  label: 第五百起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-41
+    span:
+    - body
+    - 23654
+    - 23654
+  label: 放生
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-42
+    span:
+    - body
+    - 25650
+    - 25650
+  label: (附)生所規約(凡十五條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-43
+    span:
+    - body
+    - 26331
+    - 26331
+  label: 供法衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-44
+    span:
+    - body
+    - 26694
+    - 26694
+  label: 受煎點
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-45
+    span:
+    - body
+    - 26838
+    - 26838
+  label: 通嗣書嗣法書至遺書至
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-46
+    span:
+    - body
+    - 27450
+    - 27450
+  label: 請新住持
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-47
+    span:
+    - body
+    - 28353
+    - 28353
+  label: 附請新住持啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-48
+    span:
+    - body
+    - 29050
+    - 29050
+  label: 入院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-49
+    span:
+    - body
+    - 30323
+    - 30323
+  label: 住持出入
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-50
+    span:
+    - body
+    - 30897
+    - 30897
+  label: 退院
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-51
+    span:
+    - body
+    - 31626
+    - 31626
+  label: 板賬
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-52
+    span:
+    - body
+    - 32179
+    - 32179
+  label: 遷化
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-53
+    span:
+    - body
+    - 32723
+    - 32723
+  label: 入棺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-54
+    span:
+    - body
+    - 33396
+    - 33396
+  label: 停棺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-55
+    span:
+    - body
+    - 33939
+    - 33939
+  label: 茶毗
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-56
+    span:
+    - body
+    - 34910
+    - 34910
+  label: 入墖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-57
+    span:
+    - body
+    - 35413
+    - 35413
+  label: 估唱
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-58
+    span:
+    - body
+    - 36049
+    - 36049
+  label: 安牌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-59
+    span:
+    - body
+    - 36190
+    - 36190
+  label: 裝造佛像
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-60
+    span:
+    - body
+    - 40924
+    - 40924
+  label: 脩整經典
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0135_X_005-mulu-61
+    span:
+    - body
+    - 41799
+    - 41799
+  label: 脩造僧坊
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 24428
+  label: 百丈叢林清規證義記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 兩序章第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-2
+    span:
+    - body
+    - 250
+    - 250
+  label: 執事單
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-3
+    span:
+    - body
+    - 774
+    - 774
+  label: 西序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-4
+    span:
+    - body
+    - 776
+    - 776
+  label: 一禪堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-5
+    span:
+    - body
+    - 776
+    - 776
+  label: 首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-6
+    span:
+    - body
+    - 918
+    - 918
+  label: 西堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-7
+    span:
+    - body
+    - 970
+    - 970
+  label: ○後堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-8
+    span:
+    - body
+    - 1010
+    - 1010
+  label: ○堂主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-9
+    span:
+    - body
+    - 1183
+    - 1183
+  label: 書記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-10
+    span:
+    - body
+    - 1460
+    - 1460
+  label: 知藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-11
+    span:
+    - body
+    - 1509
+    - 1509
+  label: ○藏主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-12
+    span:
+    - body
+    - 1661
+    - 1661
+  label: 維那
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-13
+    span:
+    - body
+    - 1767
+    - 1767
+  label: ○悅眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-14
+    span:
+    - body
+    - 1854
+    - 1854
+  label: ○參頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-15
+    span:
+    - body
+    - 2111
+    - 2111
+  label: 清眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-16
+    span:
+    - body
+    - 2347
+    - 2347
+  label: 禪堂香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-17
+    span:
+    - body
+    - 2421
+    - 2421
+  label: ○司水
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-18
+    span:
+    - body
+    - 2602
+    - 2602
+  label: 三侍寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-19
+    span:
+    - body
+    - 2602
+    - 2602
+  label: 祖侍
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-20
+    span:
+    - body
+    - 2707
+    - 2707
+  label: 燒香
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-21
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 記錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-22
+    span:
+    - body
+    - 3123
+    - 3123
+  label: 衣鉢
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-23
+    span:
+    - body
+    - 3425
+    - 3425
+  label: 湯藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-24
+    span:
+    - body
+    - 3469
+    - 3469
+  label: ○請客
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-25
+    span:
+    - body
+    - 3686
+    - 3686
+  label: 侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-26
+    span:
+    - body
+    - 4020
+    - 4020
+  label: 聖僧侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-27
+    span:
+    - body
+    - 4463
+    - 4463
+  label: 東序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-28
+    span:
+    - body
+    - 4465
+    - 4465
+  label: 四庫房
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-29
+    span:
+    - body
+    - 4465
+    - 4465
+  label: 都監
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-30
+    span:
+    - body
+    - 4586
+    - 4586
+  label: ○監院
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-31
+    span:
+    - body
+    - 4755
+    - 4755
+  label: ○副寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-32
+    span:
+    - body
+    - 4883
+    - 4883
+  label: ○知事
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-33
+    span:
+    - body
+    - 5147
+    - 5147
+  label: 庫司
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-34
+    span:
+    - body
+    - 5257
+    - 5257
+  label: 庫頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-35
+    span:
+    - body
+    - 5428
+    - 5428
+  label: 米頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-36
+    span:
+    - body
+    - 5540
+    - 5540
+  label: 炭頭(兼)爐頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-37
+    span:
+    - body
+    - 5652
+    - 5652
+  label: 印房
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-38
+    span:
+    - body
+    - 6066
+    - 6066
+  label: 担運(帶)貼庫
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-39
+    span:
+    - body
+    - 6157
+    - 6157
+  label: 附常住財物出入規銘(并條〔給〕共十八條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-40
+    span:
+    - body
+    - 7237
+    - 7237
+  label: 五客堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-41
+    span:
+    - body
+    - 7237
+    - 7237
+  label: 僧值
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-42
+    span:
+    - body
+    - 8056
+    - 8056
+  label: 知眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-43
+    span:
+    - body
+    - 8186
+    - 8186
+  label: 知客
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-44
+    span:
+    - body
+    - 8385
+    - 8385
+  label: (附列執)照客
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-45
+    span:
+    - body
+    - 8515
+    - 8515
+  label: ○茶頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-46
+    span:
+    - body
+    - 8643
+    - 8643
+  label: ○行堂(帶)碗頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-47
+    span:
+    - body
+    - 8793
+    - 8793
+  label: 門頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-48
+    span:
+    - body
+    - 9082
+    - 9082
+  label: 附客堂規約(二十七條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-49
+    span:
+    - body
+    - 10423
+    - 10423
+  label: 六厨房
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-50
+    span:
+    - body
+    - 10423
+    - 10423
+  label: 典座
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-51
+    span:
+    - body
+    - 10495
+    - 10495
+  label: ○貼案
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-52
+    span:
+    - body
+    - 10703
+    - 10703
+  label: 飯頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-53
+    span:
+    - body
+    - 10765
+    - 10765
+  label: ○二飯
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-54
+    span:
+    - body
+    - 10828
+    - 10828
+  label: ○菜頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-55
+    span:
+    - body
+    - 10915
+    - 10915
+  label: 火頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-56
+    span:
+    - body
+    - 10921
+    - 10921
+  label: 大火頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-57
+    span:
+    - body
+    - 10968
+    - 10968
+  label: ○小火頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-58
+    span:
+    - body
+    - 11496
+    - 11496
+  label: 水頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-59
+    span:
+    - body
+    - 11650
+    - 11650
+  label: 磨頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-60
+    span:
+    - body
+    - 11693
+    - 11693
+  label: ○雜務
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-61
+    span:
+    - body
+    - 11759
+    - 11759
+  label: ○香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-62
+    span:
+    - body
+    - 11821
+    - 11821
+  label: 附厨房條規(凡十條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-63
+    span:
+    - body
+    - 12566
+    - 12566
+  label: 七山寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-64
+    span:
+    - body
+    - 12566
+    - 12566
+  label: 值歲
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-65
+    span:
+    - body
+    - 12750
+    - 12750
+  label: 知山
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-66
+    span:
+    - body
+    - 12878
+    - 12878
+  label: ○巡山
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-67
+    span:
+    - body
+    - 12918
+    - 12918
+  label: ○柴頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-68
+    span:
+    - body
+    - 13004
+    - 13004
+  label: ○山寮香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-69
+    span:
+    - body
+    - 13051
+    - 13051
+  label: 附山寮規約(凡七條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-70
+    span:
+    - body
+    - 13351
+    - 13351
+  label: 知浴
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-71
+    span:
+    - body
+    - 13387
+    - 13387
+  label: 附浴堂規銘(凡十三條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-72
+    span:
+    - body
+    - 13980
+    - 13980
+  label: 淨頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-73
+    span:
+    - body
+    - 14596
+    - 14596
+  label: 知屋(帶)知器
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-74
+    span:
+    - body
+    - 14767
+    - 14767
+  label: ○監修
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-75
+    span:
+    - body
+    - 14834
+    - 14834
+  label: 化主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-76
+    span:
+    - body
+    - 15161
+    - 15161
+  label: 八收供寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-77
+    span:
+    - body
+    - 15161
+    - 15161
+  label: 化飯
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-78
+    span:
+    - body
+    - 15423
+    - 15423
+  label: 收供
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-79
+    span:
+    - body
+    - 15985
+    - 15985
+  label: 附收供寮規(凡十八條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-80
+    span:
+    - body
+    - 16830
+    - 16830
+  label: 莊主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-81
+    span:
+    - body
+    - 16940
+    - 16940
+  label: ○監收
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-82
+    span:
+    - body
+    - 17148
+    - 17148
+  label: 園頭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-83
+    span:
+    - body
+    - 17484
+    - 17484
+  label: 附園房寮規
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-84
+    span:
+    - body
+    - 17925
+    - 17925
+  label: 附下院執事約(即莊主園頭另住之處就稍遠者言故名下院凡九條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-85
+    span:
+    - body
+    - 18561
+    - 18561
+  label: 九旦過堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-86
+    span:
+    - body
+    - 18561
+    - 18561
+  label: 寮元
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-87
+    span:
+    - body
+    - 18668
+    - 18668
+  label: 附旦過堂規(即雲水堂凡十三條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-88
+    span:
+    - body
+    - 19344
+    - 19344
+  label: 閒住
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-89
+    span:
+    - body
+    - 19542
+    - 19542
+  label: 附耆舊堂規
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-90
+    span:
+    - body
+    - 20122
+    - 20122
+  label: 十香燈寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-91
+    span:
+    - body
+    - 20122
+    - 20122
+  label: 殿主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-92
+    span:
+    - body
+    - 20282
+    - 20282
+  label: ○法堂香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-93
+    span:
+    - body
+    - 20342
+    - 20342
+  label: ○藏樓香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-94
+    span:
+    - body
+    - 20387
+    - 20387
+  label: ○內塔主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-95
+    span:
+    - body
+    - 20421
+    - 20421
+  label: ○外塔主
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-96
+    span:
+    - body
+    - 20482
+    - 20482
+  label: ○祖堂(即賢者寮)香燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-97
+    span:
+    - body
+    - 21619
+    - 21619
+  label: 巡照
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-98
+    span:
+    - body
+    - 21626
+    - 21626
+  label: 日巡
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-99
+    span:
+    - body
+    - 21673
+    - 21673
+  label: ○夜巡
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-100
+    span:
+    - body
+    - 21789
+    - 21789
+  label: ○打掃
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-101
+    span:
+    - body
+    - 21988
+    - 21988
+  label: 請兩序執
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-102
+    span:
+    - body
+    - 22892
+    - 22892
+  label: 班首秉拂(分二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-103
+    span:
+    - body
+    - 22898
+    - 22898
+  label: 一新請受執
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-104
+    span:
+    - body
+    - 23242
+    - 23242
+  label: 二八節奉命
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-105
+    span:
+    - body
+    - 23845
+    - 23845
+  label: 請齋茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0135_X_006-mulu-106
+    span:
+    - body
+    - 24217
+    - 24217
+  label: 兩序辭執
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-juan-start
+    span:
+    - body
+    - 0
+    - 35791
+  label: 百丈叢林清規證義記卷第七之上
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 大眾章第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-2
+    span:
+    - body
+    - 244
+    - 244
+  label: 剃度正範
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-3
+    span:
+    - body
+    - 276
+    - 276
+  label: 初遵律十例
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-4
+    span:
+    - body
+    - 333
+    - 333
+  label: 一師遴德臘
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-5
+    span:
+    - body
+    - 594
+    - 594
+  label: 二機擇信志
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-6
+    span:
+    - body
+    - 790
+    - 790
+  label: 三剃度白僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-7
+    span:
+    - body
+    - 966
+    - 966
+  label: 四護世譏嫌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-8
+    span:
+    - body
+    - 1631
+    - 1631
+  label: 五稱量老小
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-9
+    span:
+    - body
+    - 1905
+    - 1905
+  label: 六防禁越濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-10
+    span:
+    - body
+    - 2219
+    - 2219
+  label: 七濟度無私
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-11
+    span:
+    - body
+    - 2422
+    - 2422
+  label: 八道業元基
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-12
+    span:
+    - body
+    - 2685
+    - 2685
+  label: 九訓䇿苦行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-13
+    span:
+    - body
+    - 2854
+    - 2854
+  label: 十敷設儀式
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-14
+    span:
+    - body
+    - 3212
+    - 3212
+  label: 二崇正辯譌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-15
+    span:
+    - body
+    - 4018
+    - 4018
+  label: 三五戒元基
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-16
+    span:
+    - body
+    - 4025
+    - 4025
+  label: 第一導引
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-17
+    span:
+    - body
+    - 4236
+    - 4236
+  label: 第二啟白
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-18
+    span:
+    - body
+    - 4418
+    - 4418
+  label: 第三請師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-19
+    span:
+    - body
+    - 4738
+    - 4738
+  label: 第四開導
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-20
+    span:
+    - body
+    - 5010
+    - 5010
+  label: 第五請聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-21
+    span:
+    - body
+    - 5411
+    - 5411
+  label: 第六懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-22
+    span:
+    - body
+    - 5740
+    - 5740
+  label: 第七問遮難
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-23
+    span:
+    - body
+    - 5888
+    - 5888
+  label: 第八授歸戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-24
+    span:
+    - body
+    - 6558
+    - 6558
+  label: 第九發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-25
+    span:
+    - body
+    - 6722
+    - 6722
+  label: 第十誡囑回向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-26
+    span:
+    - body
+    - 7120
+    - 7120
+  label: 四十支正範
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-27
+    span:
+    - body
+    - 7127
+    - 7127
+  label: 第一通白敷座
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-28
+    span:
+    - body
+    - 7370
+    - 7370
+  label: 第二集眾請師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-29
+    span:
+    - body
+    - 7725
+    - 7725
+  label: 第三遣求度者出
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-30
+    span:
+    - body
+    - 7818
+    - 7818
+  label: 第四和僧羯磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-31
+    span:
+    - body
+    - 8185
+    - 8185
+  label: 第五召求度者入
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-32
+    span:
+    - body
+    - 8556
+    - 8556
+  label: 第六開導
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-33
+    span:
+    - body
+    - 8840
+    - 8840
+  label: 第七辭謝君親
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-34
+    span:
+    - body
+    - 9058
+    - 9058
+  label: 第八剃髮
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-35
+    span:
+    - body
+    - 9839
+    - 9839
+  label: 第九授沙彌戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-36
+    span:
+    - body
+    - 10802
+    - 10802
+  label: 第十勸誡回向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-37
+    span:
+    - body
+    - 11628
+    - 11628
+  label: (附)剃度規約(凡八條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-38
+    span:
+    - body
+    - 12018
+    - 12018
+  label: (附)上供疏式
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-39
+    span:
+    - body
+    - 13362
+    - 13362
+  label: 付戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-40
+    span:
+    - body
+    - 13431
+    - 13431
+  label: 初貼報單
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-41
+    span:
+    - body
+    - 13568
+    - 13568
+  label: 次預備禮物
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-42
+    span:
+    - body
+    - 14120
+    - 14120
+  label: 次預請諸執
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-43
+    span:
+    - body
+    - 14939
+    - 14939
+  label: 次預習佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-44
+    span:
+    - body
+    - 17518
+    - 17518
+  label: 次酌定戒期
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-45
+    span:
+    - body
+    - 18588
+    - 18588
+  label: 次右師派白
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-46
+    span:
+    - body
+    - 18896
+    - 18896
+  label: 受戒堂規(凡十四條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-47
+    span:
+    - body
+    - 19867
+    - 19867
+  label: 布薩節要
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-48
+    span:
+    - body
+    - 19873
+    - 19873
+  label: 綱目十節第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-49
+    span:
+    - body
+    - 19941
+    - 19941
+  label: 一總論兩乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-50
+    span:
+    - body
+    - 20021
+    - 20021
+  label: 二崇正辯訛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-51
+    span:
+    - body
+    - 20241
+    - 20241
+  label: 三如教遵古
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-52
+    span:
+    - body
+    - 20569
+    - 20569
+  label: 四稱德量人
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-53
+    span:
+    - body
+    - 20836
+    - 20836
+  label: 五淨堂和眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-54
+    span:
+    - body
+    - 20960
+    - 20960
+  label: 六敬法謙人
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-55
+    span:
+    - body
+    - 21166
+    - 21166
+  label: 七集同揀異
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-56
+    span:
+    - body
+    - 21345
+    - 21345
+  label: 八奉法請教
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-57
+    span:
+    - body
+    - 21449
+    - 21449
+  label: 九界成法應
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-58
+    span:
+    - body
+    - 21814
+    - 21814
+  label: 十大儀小例
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-59
+    span:
+    - body
+    - 22100
+    - 22100
+  label: 略明懺悔羯磨法第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-60
+    span:
+    - body
+    - 23333
+    - 23333
+  label: 先明僧法羯磨誦戒第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-61
+    span:
+    - body
+    - 25160
+    - 25160
+  label: 復明僧法略誦戒第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-62
+    span:
+    - body
+    - 25538
+    - 25538
+  label: 次明對首法羯磨誦戒第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-63
+    span:
+    - body
+    - 25696
+    - 25696
+  label: 後明心念法羯磨誦戒第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-64
+    span:
+    - body
+    - 25756
+    - 25756
+  label: 比丘律顯是明非第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-65
+    span:
+    - body
+    - 26308
+    - 26308
+  label: 正明菩薩僧法羯磨誦戒第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-66
+    span:
+    - body
+    - 27472
+    - 27472
+  label: 菩薩律顯是明非第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-67
+    span:
+    - body
+    - 27860
+    - 27860
+  label: 附居家二眾布薩第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-68
+    span:
+    - body
+    - 28042
+    - 28042
+  label: 五篇六聚
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-69
+    span:
+    - body
+    - 28074
+    - 28074
+  label: 第一篇四波羅夷法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-70
+    span:
+    - body
+    - 28122
+    - 28122
+  label: 第二篇十三僧伽婆尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-71
+    span:
+    - body
+    - 28170
+    - 28170
+  label: 第三聚偷蘭遮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-72
+    span:
+    - body
+    - 28234
+    - 28234
+  label: 第三篇波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-73
+    span:
+    - body
+    - 28309
+    - 28309
+  label: 第四篇四波羅提提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-74
+    span:
+    - body
+    - 28350
+    - 28350
+  label: 第五篇一百式叉迦羅法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-75
+    span:
+    - body
+    - 29520
+    - 29520
+  label: 護戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-76
+    span:
+    - body
+    - 31191
+    - 31191
+  label: 道具
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-77
+    span:
+    - body
+    - 32818
+    - 32818
+  label: 附式叉摩那辯正
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_007a-mulu-78
+    span:
+    - body
+    - 34708
+    - 34708
+  label: 附尼八敬法
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-juan-start
+    span:
+    - body
+    - 0
+    - 22015
+  label: 百丈叢林清規證義記卷第七之下
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-1
+    span:
+    - body
+    - 42
+    - 42
+  label: 掛單
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-2
+    span:
+    - body
+    - 348
+    - 348
+  label: 安單
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-3
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 普請
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-4
+    span:
+    - body
+    - 1449
+    - 1449
+  label: 日用軌範
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-5
+    span:
+    - body
+    - 4134
+    - 4134
+  label: 附蓮池修身十事
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-6
+    span:
+    - body
+    - 4577
+    - 4577
+  label: 附出家人(戒)不祥事
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-7
+    span:
+    - body
+    - 5149
+    - 5149
+  label: 共住規約
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-8
+    span:
+    - body
+    - 6285
+    - 6285
+  label: 淨業堂規約(凡十五條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-9
+    span:
+    - body
+    - 7623
+    - 7623
+  label: 佛七規約(實貼本堂凡二十二條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-10
+    span:
+    - body
+    - 9005
+    - 9005
+  label: 附佛七回向疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-11
+    span:
+    - body
+    - 9869
+    - 9869
+  label: 分衛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-12
+    span:
+    - body
+    - 11232
+    - 11232
+  label: 拾遺
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-13
+    span:
+    - body
+    - 11543
+    - 11543
+  label: (附)省行堂規(亦名涅槃堂西域稱無常院俗呼病堂凡例共十五條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-14
+    span:
+    - body
+    - 12731
+    - 12731
+  label: 附看病人
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-15
+    span:
+    - body
+    - 13472
+    - 13472
+  label: 大眾龜鏡文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-16
+    span:
+    - body
+    - 15929
+    - 15929
+  label: 付法
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-17
+    span:
+    - body
+    - 15931
+    - 15931
+  label: 南岳三支。青原一支
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-18
+    span:
+    - body
+    - 19611
+    - 19611
+  label: 附天台教觀一宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-19
+    span:
+    - body
+    - 20573
+    - 20573
+  label: 附賢首教觀一宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_007b-mulu-20
+    span:
+    - body
+    - 21091
+    - 21091
+  label: 附南山律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 21485
+  label: 百丈叢林清規證義記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 節臘章第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-2
+    span:
+    - body
+    - 281
+    - 281
+  label: 安居
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-3
+    span:
+    - body
+    - 1920
+    - 1920
+  label: 夏中念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-4
+    span:
+    - body
+    - 2309
+    - 2309
+  label: 夏中講經
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-5
+    span:
+    - body
+    - 3412
+    - 3412
+  label: 講堂規約(凡一十二條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-6
+    span:
+    - body
+    - 3877
+    - 3877
+  label: 附座主條約(凡九條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-7
+    span:
+    - body
+    - 4442
+    - 4442
+  label: 蘭盆儀軌摘要
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-8
+    span:
+    - body
+    - 4456
+    - 4456
+  label: 開啟壇儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-9
+    span:
+    - body
+    - 4930
+    - 4930
+  label: 淨壇遶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-10
+    span:
+    - body
+    - 5342
+    - 5342
+  label: 上蘭盆供
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-11
+    span:
+    - body
+    - 7102
+    - 7102
+  label: 眾僧受食
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-12
+    span:
+    - body
+    - 7900
+    - 7900
+  label: 蘭盆會約(凡二十一條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-13
+    span:
+    - body
+    - 9461
+    - 9461
+  label: 解夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-14
+    span:
+    - body
+    - 10501
+    - 10501
+  label: 坐禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-15
+    span:
+    - body
+    - 10505
+    - 10505
+  label: 早課第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-16
+    span:
+    - body
+    - 10893
+    - 10893
+  label: 上午第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-17
+    span:
+    - body
+    - 11463
+    - 11463
+  label: 下午第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-18
+    span:
+    - body
+    - 11962
+    - 11962
+  label: 晚課第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-19
+    span:
+    - body
+    - 12211
+    - 12211
+  label: 夜香第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-20
+    span:
+    - body
+    - 12668
+    - 12668
+  label: 禪堂規約(凡三十二條)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-21
+    span:
+    - body
+    - 13783
+    - 13783
+  label: 孟冬貼單
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-22
+    span:
+    - body
+    - 14272
+    - 14272
+  label: 結冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-23
+    span:
+    - body
+    - 14995
+    - 14995
+  label: 起禪七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-24
+    span:
+    - body
+    - 16098
+    - 16098
+  label: 解禪七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-25
+    span:
+    - body
+    - 16588
+    - 16588
+  label: 解冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-26
+    span:
+    - body
+    - 16966
+    - 16966
+  label: 月分須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-27
+    span:
+    - body
+    - 16981
+    - 16981
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-28
+    span:
+    - body
+    - 18587
+    - 18587
+  label: 附各堂結贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-29
+    span:
+    - body
+    - 19540
+    - 19540
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-30
+    span:
+    - body
+    - 19575
+    - 19575
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-31
+    span:
+    - body
+    - 19602
+    - 19602
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-32
+    span:
+    - body
+    - 19670
+    - 19670
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-33
+    span:
+    - body
+    - 20013
+    - 20013
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-34
+    span:
+    - body
+    - 20033
+    - 20033
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-35
+    span:
+    - body
+    - 20066
+    - 20066
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-36
+    span:
+    - body
+    - 20099
+    - 20099
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-37
+    span:
+    - body
+    - 20229
+    - 20229
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-38
+    span:
+    - body
+    - 20285
+    - 20285
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0135_X_008-mulu-39
+    span:
+    - body
+    - 20497
+    - 20497
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 11533
+  label: 百丈叢林清規證義記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 法器章第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-2
+    span:
+    - body
+    - 263
+    - 263
+  label: 鐘
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-3
+    span:
+    - body
+    - 1292
+    - 1292
+  label: 板
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-4
+    span:
+    - body
+    - 1463
+    - 1463
+  label: 木魚
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-5
+    span:
+    - body
+    - 1554
+    - 1554
+  label: 犍椎
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-6
+    span:
+    - body
+    - 1728
+    - 1728
+  label: 磬
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-7
+    span:
+    - body
+    - 1831
+    - 1831
+  label: 皷
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-8
+    span:
+    - body
+    - 2187
+    - 2187
+  label: No. 1244-J 地輿名目(一十九省)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-9
+    span:
+    - body
+    - 2274
+    - 2274
+  label: 盛京省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-10
+    span:
+    - body
+    - 2376
+    - 2376
+  label: 直𨽻省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-11
+    span:
+    - body
+    - 3157
+    - 3157
+  label: 江南省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-12
+    span:
+    - body
+    - 3608
+    - 3608
+  label: 安徽省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-13
+    span:
+    - body
+    - 3966
+    - 3966
+  label: 江西省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-14
+    span:
+    - body
+    - 4450
+    - 4450
+  label: 浙江省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-15
+    span:
+    - body
+    - 4894
+    - 4894
+  label: 福建省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-16
+    span:
+    - body
+    - 5285
+    - 5285
+  label: 湖北省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-17
+    span:
+    - body
+    - 5703
+    - 5703
+  label: 湖南省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-18
+    span:
+    - body
+    - 6127
+    - 6127
+  label: 河南省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-19
+    span:
+    - body
+    - 6700
+    - 6700
+  label: 山東省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-20
+    span:
+    - body
+    - 7284
+    - 7284
+  label: 山西省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-21
+    span:
+    - body
+    - 7850
+    - 7850
+  label: 陝西省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-22
+    span:
+    - body
+    - 8294
+    - 8294
+  label: 甘肅省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-23
+    span:
+    - body
+    - 8682
+    - 8682
+  label: 四川省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-24
+    span:
+    - body
+    - 9447
+    - 9447
+  label: 廣東省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-25
+    span:
+    - body
+    - 9954
+    - 9954
+  label: 廣西省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-26
+    span:
+    - body
+    - 10473
+    - 10473
+  label: 雲南省
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0135_X_009-mulu-27
+    span:
+    - body
+    - 10998
+    - 10998
+  label: 貴州省
+  type: mulu
+  level: 1
+hash: sha256:bfde86319c4eb667a4d54f8c2e31b01c8f8310a2e78414d472ea706a478abc88
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
